@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_c0dd6ed01ac4134ba625927cbf26687b7d80ecfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_5cae5dbe2a7424c943ef743680a7a6b53d11e891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_012bd524a3213aae58528e6e7c047830ad84e685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_387a9b2f643bc7eed1c6369a288ad3a0092c8e87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_bc2b5253f41ac4b2bac5c3292dc618c5a4532394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b881010e06dc39be15b7465cd16492eedbab246f">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.14.1_afde717d96e47fe0f806eb3a415bcb2ee90c80ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5bf70f3683146e4875c006624543cb0a13eac91">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.14.1_b4f82ff157f6d4dd842522e4d6830a764fd4171d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fa98930aa297b8b76a8f661dddfe5aba26c189e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9f8ae64be7771cf45c9eba99f741c0b1575af34b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8795af3e130206443f2d5ed45f1b26067aff70dc">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.14.1_505880fe85366039ea763f5dc39f01c3f18af5b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_45d47975b5566d5e53387347cb99dd4b8daba8cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_621331df06a0f47b7ca6abd1c37a2b0ba30177ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_0a4de1d6456adb678cff0f42ef76e02d038ab3e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_113fcf236456b8b9193ff4c53506d3d7de55bb67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_5693e59b656022bc5267ca2f31c201b2cdd3b335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_63d8cfe0c980fd4f8439974c9d5f795f8be3b7c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_48de0450e7fe14af0fbf40ce55d072426e159d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2bb2791a996a44c55d3952e5430df315df47d6a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cf5e2940501f8f7b9175df6491cebb84f5690f14">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.14.1_1a60c1e435848d13d33e054d0e27989f4d79b457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_078aa286d965c56cb76f0eac50cb45e95cec7f61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c77602d43223db798b1ca56cf307ab0ee3c0e63f">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.14.1_65d0067ce3ccde79b696111a8803f8dd1fd83471.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_201f32ae26b47db15ed80a5f69a1568a32650174.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_419034ea349ca6acf09d8d502e05ac928cb04a46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\ANUJ SRIVASTAVA\AndroidStudioProjects\EcomSample-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c4865303d3edf9e7d1f0afc4f6de8bf847ee24c0.jar" />
+    </item>
+
+</items>
